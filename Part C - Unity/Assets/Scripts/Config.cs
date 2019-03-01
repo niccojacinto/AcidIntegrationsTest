@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class Config : MonoBehaviour {
 
-    private void Awake() {
-       
+    void Start() {
+        // Switch to 640 x 480 full-screen
+        Screen.SetResolution(480,360, false);
     }
 }

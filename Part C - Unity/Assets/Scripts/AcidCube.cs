@@ -20,9 +20,9 @@ public class AcidCube : MonoBehaviour {
 
     // Testing
     public void TestRandom() {
-        float x = Random.Range(0, 100);
-        float y = Random.Range(0, 100);
-        float z = Random.Range(0, 100);
+        float x = Random.Range(-100, 100);
+        float y = Random.Range(-100, 100);
+        float z = Random.Range(-100, 100);
 
         /*
         float r = Random.Range(0, 1);
