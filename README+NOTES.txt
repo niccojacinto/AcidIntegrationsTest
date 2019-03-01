@@ -1,3 +1,7 @@
+Run Database on localhost
+start run.bat for easy testing.
+
+
 This test consists of 3 parts. Unity, web and backend.
 
 Part A - Backend
@@ -111,6 +115,7 @@ https://scrimba.com/ - very good site, but maybe in the future
 https://www.quora.com/What-should-I-learn-on-node-js-before-diving-into-Express-js
 https://www.w3schools.com/nodejs/
 https://stackoverflow.com/questions/28712248/difference-between-mongodb-and-mongoose
+https://www.reddit.com/r/gamedev/comments/1iiur1/mongodb_in_unity/
 
 ?	mongoDB is native to mongoDB + mongoose is object modeling tool.. use mongoDB for simple tasks.
 
